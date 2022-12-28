@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  background: url("@img/Screenshot_24.png") 0 0 no-repeat;
+}
+
+@media (max-width: 768px) {
+  body {
+    background-color: green;
+  }
+}
